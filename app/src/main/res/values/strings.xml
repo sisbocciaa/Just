@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Just</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="registrazione">registrazione</string>
+    <string name="number">number</string>
+
+</resources>
